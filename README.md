@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Awah Mary Aporiyoore
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and using my skills to help build applications and technologies to help everyone
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on New and innovate projects
 - 📫 How to reach me awahmaryaporiyoore@outlook.com
